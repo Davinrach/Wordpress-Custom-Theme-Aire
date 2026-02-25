@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "palette": [
+        {
+          "color": "#1e40af",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#1f2937",
+          "name": "Secondary",
+          "slug": "secondary"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1200px"
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "Inter, sans-serif",
+          "name": "Inter",
+          "slug": "inter"
+        }
+      ]
+    }
+  }
+}

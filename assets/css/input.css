@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+a {
+  text-decoration: none !important;
+}
+
+.test-apply { @apply h-[80px]; }
+
+@source "C:/Users/davin/Local Sites/aire-website/app/public/wp-content/themes/airemodern/**/*.php";
+
+@theme {
+  --font-poppins: "Montserrat", sans-serif;
+  --font-sans: "Montserrat", sans-serif;
+}
+
