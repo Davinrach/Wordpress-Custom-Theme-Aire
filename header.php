@@ -9,7 +9,7 @@
 <?php wp_body_open(); ?>
 
 <div id="page" class="site min-h-screen flex flex-col">
-<header id="masthead" class="site-header bg-white border-b border-gray-50 sticky top-0 z-50 flex items-center" style="height: 100px;">
+<header id="masthead" class="site-header bg-white sticky top-0 z-50 flex items-center shadow-sm" style="height: 100px;">
     <div class="container mx-auto px-4 flex justify-between items-center w-full">
         <div class="site-branding shrink-0">
             <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
